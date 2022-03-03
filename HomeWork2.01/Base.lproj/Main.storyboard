@@ -38,7 +38,6 @@
                             <constraint firstItem="9Kt-bn-Y1P" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="oj4-Yd-lwO"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="SEj-Xx-CuD" secondAttribute="bottom" constant="20" id="tHQ-1I-lt5"/>
                             <constraint firstItem="9Kt-bn-Y1P" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="vMl-g4-g7y"/>
-                            <constraint firstItem="SEj-Xx-CuD" firstAttribute="width" secondItem="9Kt-bn-Y1P" secondAttribute="width" id="wmU-R1-aGh"/>
                         </constraints>
                     </view>
                 </viewController>
